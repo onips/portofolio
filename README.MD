@@ -1,6 +1,6 @@
 # Developer portfolio that's a 2D game
 
-Live Demo : https://onips.github.io/portfolio/
+Live Demo : https://onips.github.io/portofolio/
 
 Watch the tutorial how to build this on YouTube : https://www.youtube.com/watch?v=gwtfWORCN0U
 
