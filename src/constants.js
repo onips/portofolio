@@ -15,3 +15,13 @@ export const dialogueData = {
 };
 
 
+`Beberapa project yang pernah aku kerjakan, diantaranya : 
+<br> 1. Sistem Informasi Edit Buku Berbasis Website - PHP (2024)
+<br> 2. Sistem Informasi Pembayaran SPP Berbasis Website - PHP (2023)
+<br> 3. Sistem Informasi Praktik Kerja Lapangan Berbasis Website - PHP (2023) 
+<br> 4. Sistem Informasi Tabungan Siswa Berbasis Website (2023)
+<br> 5. Aplikasi Kasir Kafe Berbasis Desktop - C# (2022)
+<br> 6. Sistem Informasi Klinik Berbasis Website - Python Flask (2021)
+<br> 7. Sistem Informasi Data Covid dengan API Berbasis Website - Python Flask  (2021)
+<br> 8. Sistem Informasi Pembelian Tiket Kereta Berbasis Website -PHP (2019)
+`
