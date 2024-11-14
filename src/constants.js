@@ -4,7 +4,7 @@ export const dialogueData = {
   pc: `Ini PCku, sejak SMK kebanyakan bekerja & main game di PC ini, beberapa project aku buat dengan PC ini, untuk list projectnya ada di ruangan sebelah... `,
 
   "cs-degree": `Ini adalah Izajahku. Lulusan Politeknik Negeri Cilacap, prodi D3 Teknik Informatika. Aku menggantungnya di dinding karena bangga karenanya. Meski sampai saat ini tidak jago ngoding (cuma modal copas) tetapi aku pikir kuliah di PNC memberiku landasan yang baik`,
-  "sofa-table": `Hai, Selamat Datang di Rumahku, Perkenalkan aku Oni (23), aku tinggal di Ciamis dan sekarang bekerja di Cilacap sebagai editor buku. Hobiku diantaranya : memancing, fotograpi dan membuat program/apliaksi sederhana`,
+  "sofa-table": `Hai, Selamat Datang di Rumahku, Perkenalkan aku Oni (23), aku tinggal di Ciamis dan sekarang bekerja di Cilacap sebagai editor buku. Hobiku diantaranya : memancing, fotografi dan membuat program/apliaksi sederhana`,
 
   tv: `Ini TV di rumah ku. Aku suka bersantai di sofa sambil menonton YouTube / TV. Di Youtube aku suka nonton channel DEANKT & WPU. Di TV aku cuma nonton bola, btw aku fans MU (3x Juara UCL)`,
   bed: `Di sinilah aku tidur. Mimpi dan ide-ide hebat datang ketika aku sedang berbaring di tempat tidur. Diantara adalah aku bermimpi ingin membuat game-game pixel seperti Stardey Valley`,
