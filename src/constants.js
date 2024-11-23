@@ -19,7 +19,11 @@ export const dialogueData = {
               <br> 7. Sistem Informasi Data Covid dengan API Berbasis Website - Python Flask  (2021)
               <br> 8. Sistem Informasi Pembelian Tiket Kereta Berbasis Website -PHP (2019)
               `,
-  library: `Ada beberapa Skill yang aku kuasai diantaranya : Membuat aplikasi berbasis web & desktop, Membuat design/mockup web di Figma & Balsamiq, menggunakan Microsoft Office (Word, Excel, PowerPoint), Melakukan editing di aplikasi Lightroom & Canva?, Mengedit Buku di Adobe Acrobat & Photoshop`,
+  library: `Ada beberapa Skill yang aku kuasai diantaranya : 
+            <br>Membuat aplikasi berbasis web & desktop
+            <br>Membuat design/mockup web di Figma & Balsamiq
+            <br>Melakukan editing di aplikasi Lightroom & Canva?
+            <br>Mengedit Buku di Adobe Acrobat & Photoshop`,
   exit: `Jika Kamu ingin keluar dari web portofolio ini, tutup saja tabnya.`,
 };
 
