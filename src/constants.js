@@ -20,10 +20,11 @@ export const dialogueData = {
               <br> 8. Sistem Informasi Pembelian Tiket Kereta Berbasis Website -PHP (2019)
               `,
   library: `Ada beberapa Skill yang aku kuasai diantaranya : 
-            <br>Membuat aplikasi berbasis web & desktop
-            <br>Membuat design/mockup web di Figma & Balsamiq
-            <br>Melakukan editing di aplikasi Lightroom & Canva?
-            <br>Mengedit Buku di Adobe Acrobat & Photoshop`,
+            <br>
+            <br>1. Membuat aplikasi berbasis web & desktop<br>
+            <br>2. Membuat design/mockup web di Figma & Balsamiq<br>
+            <br>3. Melakukan editing di aplikasi Lightroom & Canva<br>
+            <br>4. Mengedit Buku di Adobe Acrobat & Photoshop<br>`,
   exit: `Jika Kamu ingin keluar dari web portofolio ini, tutup saja tabnya.`,
 };
 
