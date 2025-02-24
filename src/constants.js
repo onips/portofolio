@@ -25,7 +25,7 @@ export const dialogueData = {
             <br>2. Membuat design/mockup web di Figma & Balsamiq<br>
             <br>3. Melakukan editing di aplikasi Lightroom & Canva<br>
             <br>4. Mengedit Buku di Adobe Acrobat & Photoshop<br>
-            <br>4. Digital Marketing (Meta Ads & Google Ads)<br>`,
+            <br>5. Digital Marketing (Meta Ads & Google Ads)<br>`,
   exit: `Jika Kamu ingin keluar dari web portofolio ini, tutup saja tabnya.`,
 };
 
